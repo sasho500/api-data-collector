@@ -2,7 +2,7 @@
 
 A Python automation project for collecting data from REST APIs, normalizing API responses, validating records, and generating structured CSV reports.
 
-The application is designed to process large amounts of data reliably and can later be integrated with systems such as ServiceNow, EasyIP, TeraFlowSDN, and other REST API platforms.
+The application is designed to process large amounts of data reliably and can later be integrated with systems such as TeraFlowSDN and other REST API platforms.
 
 ## Project Goals
 
