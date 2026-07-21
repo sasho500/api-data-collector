@@ -2,7 +2,7 @@
 
 A Python automation project for collecting data from REST APIs, normalizing API responses, validating records, and generating structured CSV reports.
 
-The application is designed to process large amounts of data reliably and can later be integrated with systems such as TeraFlowSDN and other REST API platforms.
+The application is designed to process large amounts of data reliably and can later be integrated with different REST API platforms. Docker and Kubernetes will be used for deployment, while Terraform will be used for infrastructure provisioning.
 
 ## Project Goals
 
@@ -16,7 +16,7 @@ The application is designed to process large amounts of data reliably and can la
 - Retry requests after temporary API failures
 - Support multiple API sources
 - Run locally, in Docker, and as a Kubernetes CronJob
-
+- Provision infrastructure with Terraform
 
 ### API Collection
 
