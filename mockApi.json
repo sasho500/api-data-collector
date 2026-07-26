@@ -1,0 +1,13 @@
+{
+  "id": 101,
+  "name": "router-sofia-01",
+  "status": "active",
+  "network": {
+    "ip_address": "10.10.10.1"
+  },
+  "hardware": {
+    "manufacturer": "Cisco",
+    "model": "ISR 4331",
+    "serial_number": "ABC12345"
+  }
+}
