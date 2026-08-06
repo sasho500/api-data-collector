@@ -32,3 +32,6 @@ class ApiResponseError(ApiClientError):
 
 class InvalidResponseError(ApiClientError):
     """Raised when the API response cannot be parsed as valid JSON."""
+    
+class AdapterError(ValueError):
+    """Raised when an API payload cannot be converted to the common model."""
